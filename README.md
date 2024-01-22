@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/C5612AQErLJQyuT4h2Q/article-inline_image-shrink_1500_2232/0/1624597705774?e=1709769600&v=beta&t=KfytV5d2TIb_JF_ewQJS-mGme0dc4q6P5dBhoxhoKc8)]
+![MasterHead](https://media.licdn.com/dms/image/C5612AQErLJQyuT4h2Q/article-inline_image-shrink_1500_2232/0/1624597705774?e=1709769600&v=beta&t=KfytV5d2TIb_JF_ewQJS-mGme0dc4q6P5dBhoxhoKc8)
 <h1 align="center">Hi 👋, I'm Ghita</h1>
 <h3 align="center">A passionate frontend developer from Romania</h3>
 <img align="right" alt="Coding" width="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ25zd3dldDNpeDNmdG9jMnJtczZ2Mm5pZDdrZDI5dndqdHltcGtxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif">
